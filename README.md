@@ -1,1 +1,1 @@
-# eeg_classification_research
+# EEG Classification Research
